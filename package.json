@@ -1,0 +1,21 @@
+{
+  "name": "cz.zcu.kiv.brainin.devtools",
+  "version": "0.1.0",
+  "displayName": "BrainIn Development Tools",
+  "description": "Unity Editor tools for validating and diagnosing BrainIn neurorehabilitation tasks.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Vitalij Atamanjuk"
+  },
+  "keywords": [
+    "brainin",
+    "unity",
+    "validation",
+    "diagnostics",
+    "webgl"
+  ],
+  "type": "tool",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}

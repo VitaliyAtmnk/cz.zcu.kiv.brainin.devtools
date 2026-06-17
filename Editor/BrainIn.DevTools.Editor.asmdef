@@ -1,0 +1,19 @@
+{
+  "name": "BrainIn.DevTools.Editor",
+  "rootNamespace": "BrainIn.DevTools",
+  "references": [
+    "BrainIn.DevTools.Runtime",
+    "Unity.Newtonsoft.Json"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
