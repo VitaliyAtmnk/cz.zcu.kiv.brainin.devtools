@@ -12,7 +12,18 @@ The package is intended to support development of Unity tasks built on top of th
 
 ## Installation
 
-TODO:
+1. Select `Window -> Package Management -> Package Manager`
+
+![alt text](img/image-1.png)
+
+2. Click Install package from git URL
+
+![alt text](img/image.png)
+
+3. Paste url: `https://github.com/VitaliyAtmnk/cz.zcu.kiv.brainin.devtools.git`
+
+![alt text](img/image-2.png)
+
 
 ## Validation tools
 
